@@ -19,7 +19,6 @@ function afficherProduits(produits) {
       <strong>${p.nom}</strong><br>
       Prix: ${p.prix}<br>
       Réf: ${p.reference}<br>
-      Page: ${p.page}
     `;
     resultats.appendChild(div);
   });
