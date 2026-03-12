@@ -1,0 +1,22 @@
+[
+  {"nom": "Filtre à huile Bosch", "prix": "12€", "reference": "BSH123", "page": 45, "image": "https://media.autodoc.de/360_photos/760009/h-preview.jpg"},
+  {"nom": "Bougie d'allumage NGK", "prix": "8€", "reference": "NGK456", "page": 12, "image": "https://cdn.pkwteile.de/thumb?id=17379870&m=0&n=0&lng=fr&rev=94077992"},
+  {"nom": "Huile moteur 5W30", "prix": "25€", "reference": "HUILE789", "page": 7, "image": "https://eboutique.totalenergies.fr/1615-large_default/huile-moteur-evolution-fulltech-msx-5w30-5l.jpg"},
+  {"nom": "Pneu Michelin 205/55 R16", "prix": "80€", "reference": "MIC20555", "page": 32, "image": "https://www.1001pneus.be/media/catalog/product/cache/2c8b54181c8c422f473df3ce20e4a9b5/m/i/michelin_crossclimate_plus_1.jpg"},
+  {"nom": "Essuie-glace Bosch 24\"", "prix": "15€", "reference": "BSH2445", "page": 22, "image":"https://s1.medias-norauto.fr/images_produits/4047026155983_2108/900x900/1-balai-d-essuie-glace-bosch-clearview-370v-600-mm--2153726.jpg"},
+  {"nom": "Amortisseur avant KYB", "prix": "45€", "reference": "KYB1234", "page": 60},
+  {"nom": "Plaquette de frein Bosch", "prix": "35€", "reference": "BSH987", "page": 50},
+  {"nom": "Disque de frein Brembo", "prix": "60€", "reference": "BRM456", "page": 51},
+  {"nom": "Courroie de distribution Gates", "prix": "70€", "reference": "GTS123", "page": 65},
+  {"nom": "Batterie Bosch 60Ah", "prix": "90€", "reference": "BSHBAT60", "page": 10},
+  {"nom": "Filtre à air Mann", "prix": "18€", "reference": "MANN123", "page": 46},
+  {"nom": "Liquide de frein DOT4", "prix": "12€", "reference": "LIQDOT4", "page": 5},
+  {"nom": "Ampoule H7 Philips", "prix": "10€", "reference": "PHILH7", "page": 15},
+  {"nom": "Rétroviseur gauche universel", "prix": "25€", "reference": "RETGL45", "page": 30},
+  {"nom": "Clé à bougie", "prix": "8€", "reference": "CLEB123", "page": 20},
+  {"nom": "Joint de culasse", "prix": "50€", "reference": "JC456", "page": 70},
+  {"nom": "Filtre à carburant Mann", "prix": "15€", "reference": "MANNF123", "page": 47},
+  {"nom": "Kit d'embrayage Luk", "prix": "120€", "reference": "LUK789", "page": 55},
+  {"nom": "Ventilateur moteur", "prix": "60€", "reference": "VENT123", "page": 40},
+  {"nom": "Bouchon d'huile", "prix": "5€", "reference": "BOU123", "page": 6}
+]
