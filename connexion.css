@@ -104,3 +104,13 @@ header {
 .logo {
   width: 140px;
   display: block;
+
+
+.footer {
+  background-color: #222;
+  color: #ddd;
+  text-align: center;
+  padding: 30px;
+  margin-top: 60px;
+  font-size: 14px;
+}
