@@ -131,3 +131,33 @@ header {
   margin-top: 60px;
   font-size: 14px;
 }
+
+.page-produit{
+  display:flex;
+  gap:50px;
+  padding:150px 50px;
+}
+
+.image-produit img{
+  width:400px;
+}
+
+.info-produit{
+  max-width:400px;
+}
+
+.prix{
+  font-size:28px;
+  color:#b9770e;
+  font-weight:bold;
+}
+
+.acheter{
+  background:#b9770e;
+  color:white;
+  border:none;
+  padding:15px 30px;
+  border-radius:30px;
+  cursor:pointer;
+  margin-top:20px;
+}
